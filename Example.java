@@ -41,11 +41,7 @@ public class Example extends JFrame{
 
         }
     public void main(String[] args){
-            SwingUtilities.invokeLater(new Runnable() {
-            public void run() {
-                new Example();
-            }
-        });
+     Example example =new Example();
     }
 
 }
