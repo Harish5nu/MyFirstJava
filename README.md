@@ -1,1 +1,1 @@
-This is just basic code in java!!
+This is just basic example code in java!!
